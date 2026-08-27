@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jiamin Song 👋
 
-<!--
-**jiamin0630/jiamin0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Assistant @ [XLANG Lab](https://xlang.ai/) & Undergraduate @ [Zhejiang University](https://www.zju.edu.cn/english/), Chu Kochen Honors College
 
-Here are some ideas to get you started:
+CV: [pdf](./Jiamin_Song_CV.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [aboatwithflow@gmail.com](mailto:aboatwithflow@gmail.com)
+
+## About Me
+
+- 🔭 I work on **computer-use agents**, **agent evaluation**, and **long-horizon interactive tasks**.
+- 💻 I am a core contributor to [OSWorld 2.0](https://osworld-v2.xlang.ai/), where I design long-horizon tasks and study agent behavior and failure modes.
+- 🧠 I am interested in **reinforcement learning for interactive agents** and in understanding how agents plan, use real-world software, and fail on complex workflows.
+- 🎿 Outside research, I enjoy skiing and playing badminton 🏸.
